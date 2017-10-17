@@ -1,0 +1,2 @@
+# AndroidTestWithGroovy
+android使用groovy测试的一个模板
